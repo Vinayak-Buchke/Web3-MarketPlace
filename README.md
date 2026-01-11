@@ -1,5 +1,7 @@
 # Decentralized OLX
-Designed a blockchain-based online marketplace leveraging non-fungible tokens (NFTs) to enable secure and seamless buying and selling of digital products. To address scalability challenges inherent in Ethereum mainnet transactions, the system incorporates a 2-layer architecture inspired by Polygon zkEVM, a Layer 2 rollup solution. This approach offloads transaction execution to Layer 2 while anchoring data availability and state transition verification on Ethereum Layer 1—ensuring security, reliability, and reduced congestion on the base layer.
+Designed a blockchain-based online marketplace leveraging non-fungible tokens (NFTs) to enable secure and seamless buying and selling of digital products. 
+
+To address scalability challenges inherent in Ethereum mainnet transactions, the system incorporates a 2-layer architecture inspired by Polygon zkEVM, a Layer 2 rollup solution. This approach offloads transaction execution to Layer 2 while anchoring data availability and state transition verification on Ethereum Layer 1—ensuring security, reliability, and reduced congestion on the base layer.
 
 ## Prerequisites
 
@@ -47,6 +49,10 @@ Designed a blockchain-based online marketplace leveraging non-fungible tokens (N
 ### 3. Profile Page
    
    <img width="1061" alt="Screenshot_20221108_190038" src="https://github.com/Vinayakk404/Web3-MarketPlace/assets/72989303/3db7a86d-4d23-4c3e-81c5-d95071855d61">
+   
+### 4. Product Page
+<img width="945" height="582" alt="image" src="https://github.com/user-attachments/assets/1b36f1a4-563f-4560-a7c8-5443605807d5" />
+
 
 ## Results
 <img width="1706" height="697" alt="image" src="https://github.com/user-attachments/assets/fade8ec8-86e5-4b71-bd41-d53926ce3e57" />
